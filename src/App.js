@@ -1,8 +1,10 @@
+import Login from "./screens/Login";
+
 function App() {
   return (
-    <div>
-      <h1>Hello wolrd</h1>
-    </div>
+    <>
+      <Login />
+    </>
   );
 }
 
